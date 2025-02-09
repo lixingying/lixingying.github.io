@@ -7,4 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth year Ph.D. in Mathematics from [Southern University of Science and Technology (SUSTech)](http://www.sustech.edu.cn/en/). I work in birational geometry, especially the minimal model program. I am studying the Kawamata-Morrison cone conjecture. I would like to attend this conference to learn about the latest developments and new problems in algebraic geometry.
+I'm a fourth year Ph.D. in Mathematics from [Southern University of Science and Technology (SUSTech)](http://www.sustech.edu.cn/en/).
+I work in birational geometry, especially the minimal model program. I am studying the Kawamata-Morrison cone conjecture. I would like to attend this conference to learn about the latest developments and new problems in algebraic geometry.
