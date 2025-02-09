@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-
 *Southern University of Science and Technology (SUSTech)
 *Grader,
  *Algebraic Geometry
