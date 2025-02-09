@@ -9,6 +9,25 @@ redirect_from:
 
 {% include base_path %}
 
+
+*Southern University of Science and Technology (SUSTech)
+*Grader,
+ *Algebraic Geometry
+ *Spring 2024
+
+*Recitation Instructor,
+ *Calculus II
+ *Fall 2022
+
+*Grader,
+ *Calculus II
+ *Fall 2021
+
+*Recitation Instructor,
+ *Linear Algebra
+ *Fall 2019
+
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
@@ -41,24 +60,3 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
