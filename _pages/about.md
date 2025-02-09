@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth year undergraduate student from [School of ICSE](https://icse.uestc.edu.cn/), [UESTC](https://uestc.edu.cn/). My research interest includes computer vision, digital circuit design, deep learning, and spiking neuro network.
+I'm a Ph.D. in Mathematics from [Southern University of Science and Technology (SUSTech)](http://www.sustech.edu.cn/en/). I work in birational geometry, especially the minimal model program. I am studying the Kawamata-Morrison cone conjecture. I would like to attend this conference to learn about the latest developments and new problems in algebraic geometry.
