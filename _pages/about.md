@@ -13,7 +13,7 @@ I’m a fourth-year Ph.D. student in Mathematics at the [Southern University of 
 
 I work in birational geometry, especially the minimal model program. I am studying the Kawamata-Morrison cone conjecture. 
 
-[CV](http://lixingying.github.io/Xingying_Li_CV-2.pdf)
+[CV](http://lixingying.github.io/Xingying_Li_CV.pdf)
 
 Education
 ======
