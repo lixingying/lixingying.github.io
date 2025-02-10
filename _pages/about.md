@@ -7,6 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth year Ph.D. in Mathematics from [Southern University of Science and Technology (SUSTech)](http://www.sustech.edu.cn/en/).
+I'm a fourth year Ph.D. in Mathematics from [Southern University of Science and Technology (SUSTech)](http://www.sustech.edu.cn/en/). My advisor is [Zhan Li](https://math.sustech.edu.cn/c/lizhan?lang=en). 
 
 I work in birational geometry, especially the minimal model program. I am studying the Kawamata-Morrison cone conjecture. I would like to attend this conference to learn about the latest developments and new problems in algebraic geometry.
+
+Education
+======
+* Ph.D in Mathematics, Southern University of Science and Technology, 2021-2026 (expected)
+* M.S. in Mathematics, Southern University of Science and Technology, 2019-2021
+* B.S. in Mathematics, Xiangtan University, 2015-2019
