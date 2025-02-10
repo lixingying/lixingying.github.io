@@ -9,12 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-
+Teaching
+======
 *Southern University of Science and Technology (SUSTech)
 *Grader,
  *Algebraic Geometry
  *Spring 2024
-======
+
 *Recitation Instructor,
  *Calculus II
  *Fall 2022
