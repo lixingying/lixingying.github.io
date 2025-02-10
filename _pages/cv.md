@@ -15,6 +15,7 @@ Education
 * M.S. in Mathematics, Southern University of Science and Technology, 2019-2021
 * B.S. in Mathematics, Xiangtan University, 2015-2019
 
+<!--
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
@@ -62,3 +63,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
