@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Sitemappp"
-permalink: /sitemap/
+permalink: /sitemappp/
 author_profile: true
 ---
 
