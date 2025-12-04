@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+I will not use this page
 * Ph.D in Mathematics, Southern University of Science and Technology, 2021-2025
 * M.S. in Mathematics, Southern University of Science and Technology, 2019-2021
 * B.S. in Mathematics, Xiangtan University, 2015-2019
